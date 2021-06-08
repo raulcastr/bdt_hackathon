@@ -1,1 +1,1 @@
-![Alt Text](https://drive.google.com/file/d/1qlAqGmvq6aolQ2NpNqpr3aNrSjGpp-zi/view?usp=sharing)
+![Alt Text](https://github.com/nuwe-io/bdt_hackathon_data_challenge/blob/main/atoms.gif)
