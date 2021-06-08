@@ -1,5 +1,5 @@
 # bdtHackaton 
-#### Dataset for Data Science individual challenge of the bdthackaton (12-13 June)
+#### Dataset for the Data Science individual challenge (12-13 June)
 
 Dataset (127322x12)
 
@@ -17,7 +17,7 @@ And the last column is the one that represents the elemental particle that has b
 
 ![Alt Text](https://github.com/nuwe-io/bdt_hackathon_data_challenge/blob/main/atoms.gif)
 
-Where each class from 0-7 correspond to one of the elemental particles:
+Where each class from 0-7 corresponds to one of the elemental particles:
 
 |Particle      |Name|
 |--------------|----|  
@@ -29,13 +29,4 @@ Where each class from 0-7 correspond to one of the elemental particles:
 |       5      |  Higgs boson |
 |       6      |  Antileptons |
 |       7      |  Antiquarks |
-
-
-
-
-
-
-
- 
-The data contained in this dataset has the following:
 
