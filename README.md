@@ -17,7 +17,7 @@ And the last column is the one that represents the elemental particle that has b
 
 ![Alt Text](https://github.com/nuwe-io/bdt_hackathon_data_challenge/blob/main/atoms.gif)
 
-Where each class from 0-7 correspond to one of the elemental particle:
+Where each class from 0-7 correspond to one of the elemental particles:
 
 |Particle      |Name|
 |--------------|----|  
