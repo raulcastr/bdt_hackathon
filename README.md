@@ -1,5 +1,5 @@
 # bdtHackaton 
-#### Dataset for the Data Science individual challenge (12-13 June)
+#### Dataset for the Data Science individual challenge (12-13 June 2021)
 
 Dataset (127322x12)
 
