@@ -1,7 +1,7 @@
 # #bdtHackaton 
 #### Dataset for the Data Science individual challenge (12-13 June 2021)
 
-Dataset (127322x12)
+The dataset for this challenge is the 'particles.csv' file, with a shape of (127322 rows x12 columns).
 
 |alpha_1|alpha_2|alpha_3|beta_1|beta_2|beta_3|gamma_1|gamma_2|gamma_3|theta|noise|Particle|
 |-------|-------|-------|------|------|------|-------|-------|-------|-----|-----|--------------|
@@ -13,7 +13,7 @@ This dataset is composed of 10 columns showing the data obtained by the LHC sens
 
 The eleventh column is the average noise measured by all the sensors.
 
-And the last column is the one that represents the elemental particle that has been created by the high-energy collision of particles.
+And the last column is the one that represents the elemental particle that has been created by the high-energy collision of particles. This is the column that your algorithm will have to be able to predict.
 
 ![Alt Text](https://github.com/nuwe-io/bdt_hackathon_data_challenge/blob/main/atoms.gif)
 
