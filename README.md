@@ -1,7 +1,7 @@
 # #bdtHackaton 
 #### Dataset for the Data Science individual challenge (12-13 June 2021)
 
-The dataset for this challenge is the 'particles.csv' file, with a shape of (127322 rows x12 columns).
+The dataset for this challenge is the 'particles.csv' file, with a shape of (127321 rows x 12 columns).
 
 |alpha_1|alpha_2|alpha_3|beta_1|beta_2|beta_3|gamma_1|gamma_2|gamma_3|theta|noise|Particle|
 |-------|-------|-------|------|------|------|-------|-------|-------|-----|-----|--------------|
