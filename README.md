@@ -15,7 +15,7 @@ The eleventh column is the average noise measured by all the sensors.
 
 And the last column is the one that represents the elemental particle that has been created by the high-energy collision of particles. This is the column that your algorithm will have to be able to predict.
 
-![Alt Text](https://github.com/nuwe-io/bdt_hackathon_data_challenge/blob/main/atoms.gif)
+![Alt Text](https://github.com/nuwe-io/bdt_hackathon/blob/main/images/atoms.gif)
 
 Where each class from 0-7 corresponds to one of the elemental particles:
 
@@ -31,7 +31,7 @@ Where each class from 0-7 corresponds to one of the elemental particles:
 |       7      |  Antiquarks |
 
 
-![Alt Text](https://github.com/nuwe-io/bdt_hackathon_data_challenge/blob/main/flash.jpg)
+![Alt Text](https://github.com/nuwe-io/bdt_hackathon/blob/main/images/flash.jpg)
 
 This dataset has been specially created for this challenge. Now let's have fun! :yum: :sunglasses:
 
