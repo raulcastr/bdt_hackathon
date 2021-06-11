@@ -33,5 +33,5 @@ Where each class from 0-7 corresponds to one of the elemental particles:
 
 ![Alt Text](https://github.com/nuwe-io/bdt_hackathon/blob/main/images/flash.jpg)
 
-This dataset has been specially created for this challenge. Now let's have fun! :yum: :sunglasses:
+This dataset has been specially created for this challenge. Now let's have fun! :sunglasses:
 
